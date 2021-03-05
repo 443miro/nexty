@@ -1,5 +1,6 @@
-import * as React from "react";
+import * as React from 'react';
+import { Text } from '@chakra-ui/react';
 
 export default function IndexPage() {
-  return <div>Welcome</div>;
+  return <Text>Welcome</Text>;
 }
